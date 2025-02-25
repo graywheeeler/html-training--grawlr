@@ -36,11 +36,10 @@
 }
 
 .logo {
-    position: absolute; 
-    top: 10px;
-    left: 10px;
-    width: 80px; 
-    height: 60px;
+    align-self: center;
+    height: 3vw;
+    width: 4vw;
+    align-self: right;
 }
 
 .navbar {
@@ -48,6 +47,7 @@
   background-color: #024059;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  padding: .5vw;
 }
 
 .navbar a {
