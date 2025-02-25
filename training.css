@@ -1,7 +1,7 @@
 .site-heading {
     margin-top: 1%;
     max-width: 110%;
-    height: 60vw;
+    height: 35vw;
     background-image: url('./img/loggerhead.jpg');
     background-size: cover;
     background-position: center;
@@ -36,10 +36,8 @@
 }
 
 .logo {
-    align-self: center;
-    height: 3vw;
-    width: 4vw;
-    align-self: right;
+    height: 8%;
+    width: 11%;
 }
 
 .navbar {
@@ -121,7 +119,7 @@
     background: #00385B; 
     color:#D9D8B6;
     padding: 2%;
-    width:17vw;
+    width:20vw;
     height: 14vw;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
